@@ -1,0 +1,2 @@
+# ReactNative-VPN-App
+对于一个经常Google的技术人来说，回到国内才能体会被限制自由的酸楚。尽管自己搭了ss，但App Store里的软件被全被下了架。索性就用React-Native加IOS原生的NEKit组件来写一个自己用的App，虽然不能上架App Store，但可以安装到自己的手机和平板上。
